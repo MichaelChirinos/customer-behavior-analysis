@@ -76,4 +76,5 @@ SQL
 
 Jupyter Notebook
 
-Power BI / Looker Studio (según el que usaste)
+Power BI (Medidas Dax, Visualización)
+
